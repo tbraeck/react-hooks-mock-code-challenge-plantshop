@@ -1,11 +1,6 @@
 {
   "plants": [
-    {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
+    {},
     {
       "id": 2,
       "name": "ZZ Plant",
@@ -41,6 +36,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "pooplant",
+      "image": "farmer",
+      "price": "435435",
+      "id": 8
+    },
+    {
+      "name": "Autumn Leaves",
+      "image": "https://i.ebayimg.com/images/g/lXAAAOSwXYFjlRIo/s-l500.jpg",
+      "price": "45.00",
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "Autumn Leaves",
+      "image": "https://i.ebayimg.com/images/g/lXAAAOSwXYFjlRIo/s-l500.jpg",
+      "price": "45.00",
+      "id": 11
+    },
+    {
+      "name": "IDme Board",
+      "image": "https://i.ebayimg.com/images/g/lXAAAOSwXYFjlRIo/s-l500.jpg",
+      "price": "45",
+      "id": 12
     }
   ]
 }
